@@ -342,6 +342,7 @@ section button:hover {
     border-radius: 10px;
     border: none;
     padding-left: 0.5rem;
+    resize: none;
 }
 
 .contact input:last-child {
